@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e162e47-3842-4013-b4bd-6e75a160e871/console_1.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/mock-data.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/mock-query (2).sql" dialect="MariaDB" />
   </component>
